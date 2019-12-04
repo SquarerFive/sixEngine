@@ -1,4 +1,3 @@
 # sixEngine
-sixEngine is a software designed for meteorologists and scientific research projects. 
-
+This is a project I'll be working on in the near future.
 
